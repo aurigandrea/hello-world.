@@ -1,2 +1,2 @@
 # hello-world.
-Boldog leszek. Felvértezem magam a fájdalommal szemben.
+I am just learning html, css and javascripit. Hopefully I will have a website soon.
